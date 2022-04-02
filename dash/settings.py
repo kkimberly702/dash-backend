@@ -79,7 +79,7 @@ WSGI_APPLICATION = 'dash.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'dash-beauty-backend',
+        'NAME': 'dash_beauty',
     }
 }
 
